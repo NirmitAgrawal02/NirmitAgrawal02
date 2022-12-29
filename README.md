@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Nirmit Agrawal
+<p center>Hi there 👋, I'm Nirmit Agrawal</p>
 
 <!--
 **NirmitAgrawal02/NirmitAgrawal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
