@@ -1,4 +1,4 @@
-<h2 align = "center">Hi there 👋, I'm Nirmit Agrawal</>h2
+<h2 align = "center">Hi there 👋, I'm Nirmit Agrawal</h2>
 
 <!--
 **NirmitAgrawal02/NirmitAgrawal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
