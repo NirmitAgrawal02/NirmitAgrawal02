@@ -1,5 +1,7 @@
 <h2 align = "center">Hi there 👋, I'm Nirmit Agrawal</h2>
 
+I'm an enthusiastic and meticulous software developer and am currently pursuing Masters in Software Engineering from Arizona State University.
+
 <!--
 **NirmitAgrawal02/NirmitAgrawal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
