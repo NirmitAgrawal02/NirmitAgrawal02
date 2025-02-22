@@ -1,20 +1,30 @@
-<h2 align = "center">Hi there 👋, I'm Nirmit Agrawal</h2>
+<h2 align="center">Hi there 👋, I'm Nirmit Agrawal</h2>
 
-I'm an enthusiastic and meticulous software developer and am currently pursuing Masters in Software Engineering from Arizona State University. Please find my repositories below!
+🎯 **Software Engineer | Full Stack Developer | AI Enthusiast**  
 
-- 🔭 I’m well versed in Java, Python, React.js, next.js, MySQL, PostGresql & MongoDB
-- 🔭 I’m currently working on portforilo website using next.js & tailwindcss & building a genAI website using chatGPT api 
+I am an enthusiastic and meticulous software engineer with **3+ years of experience** in **backend and full-stack development**, specializing in **Python, Java, and React.js**. I hold a **Master's in Software Engineering from Arizona State University (GPA: 3.88/4)** and have worked on diverse projects in **microservices architecture, cloud computing, AI-driven solutions, and scalable web applications**.
 
-<!--
-**NirmitAgrawal02/NirmitAgrawal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ... next.js & 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... agrawa
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Expertise:
+- **Languages**: Java, Python, C#, C++, TypeScript, JavaScript, Bash  
+- **Frontend**: React.js, Next.js, Angular, D3.js, TailwindCSS  
+- **Backend**: Django, Flask, FastAPI, Spring Boot, Node.js, RESTful APIs, GraphQL  
+- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase, Prisma  
+- **Cloud & DevOps**: AWS EC2, Docker, Kubernetes, GitHub Actions, Jenkins  
+- **Tools & Frameworks**: WPF, OpenGL, OpenCV, TensorFlow, PyTorch, Postman, Power BI  
+
+### 🔭 Current Projects:
+- **🌐 Portfolio Website**: Building a personal website using **Next.js & TailwindCSS**  
+- **🤖 GenAI Platform**: Developing an AI-powered application using the **ChatGPT API**  
+
+### 📌 Notable Work:
+- **YourBeat Inc (Full Stack Developer)**: Built a real-time chat app using **MERN stack & Next.js** for **10K+ concurrent users**  
+- **Auto BIM Route (Software Engineer)**: Engineered a high-performance data visualization tool using **OpenGL & OpenTK**  
+- **TPF Software (Software Engineer)**: Developed microservices using **Spring Boot & Hibernate**  
+
+### 📫 Connect with me:
+- **Email**: [agrawalnirmit02@gmail.com](mailto:agrawalnirmit02@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/nirmit-agrawal](https://www.linkedin.com/in/nirmit-agrawal/)   
+
+⚡ **Fun Fact**: I love working on AI-driven projects and optimizing system performance to create seamless user experiences!  
