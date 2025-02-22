@@ -26,5 +26,3 @@ I am an enthusiastic and meticulous software engineer with **3+ years of experie
 ### 📫 Connect with me:
 - **Email**: [agrawalnirmit02@gmail.com](mailto:agrawalnirmit02@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/nirmit-agrawal](https://www.linkedin.com/in/nirmit-agrawal/)   
-
-⚡ **Fun Fact**: I love working on AI-driven projects and optimizing system performance to create seamless user experiences!  
