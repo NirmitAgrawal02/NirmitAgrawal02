@@ -25,7 +25,7 @@ I am an enthusiastic and meticulous software engineer with **3+ years of experie
 - **TPF Software (Software Engineer)**: Developed microservices using **Spring Boot & Hibernate**  
 
 ### 🌐 Portfolio:  
-🔗 **Check out my portfolio**: [https://tinyurl.com/ycxff27t](https://tinyurl.com/ycxff27t)  
+🔗 **Check out my portfolio**: [my portfio](https://tinyurl.com/ycxff27t)  
 
 ### 📫 Connect with me:  
 - **Email**: [agrawalnirmit02@gmail.com](mailto:agrawalnirmit02@gmail.com)  
