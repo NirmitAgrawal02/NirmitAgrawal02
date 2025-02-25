@@ -1,7 +1,3 @@
-Here's an updated version with a **🔥 sleek call-to-action button-style text** that hyperlinks to your portfolio:  
-
----
-
 <h2 align="center">Hi there 👋, I'm Nirmit Agrawal</h2>  
 
 🎯 **Software Engineer | Full Stack Developer | AI Enthusiast**  
