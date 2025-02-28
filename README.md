@@ -14,6 +14,7 @@ I am an enthusiastic and meticulous software engineer with **3+ years of experie
 
 ### 🔭 Current Projects:  
 - **🤖 Real Time Stocker Dashboard**: Developing a real-time stock ticker dashboard for **AAPL** using **FastAPI, WebSockets, and Next.js**, showcasing live price updates and dynamic charting.
+- **🤖 Online E-Commerce Project**: Freelancing and building a **real time e-commerce platform** for **Vindicate PolyPlast**.
 
 ### 📌 Notable Work:  
 - **YourBeat Inc (Full Stack Developer)**: Built a real-time chat app using **MERN stack & Next.js** for **10K+ concurrent users**  
