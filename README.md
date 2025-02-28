@@ -13,7 +13,7 @@ I am an enthusiastic and meticulous software engineer with **3+ years of experie
 - **Tools & Frameworks**: WPF, OpenGL, OpenCV, TensorFlow, PyTorch, Postman, Power BI  
 
 ### 🔭 Current Projects:  
-- **🤖 GenAI Platform**: Developing an AI-powered application using the **ChatGPT API**  
+- **🤖 Real Time Stocker Dashboard**: Developing a real-time stock ticker dashboard for **AAPL** using **FastAPI, WebSockets, and Next.js**, showcasing live price updates and dynamic charting.
 
 ### 📌 Notable Work:  
 - **YourBeat Inc (Full Stack Developer)**: Built a real-time chat app using **MERN stack & Next.js** for **10K+ concurrent users**  
@@ -26,7 +26,3 @@ I am an enthusiastic and meticulous software engineer with **3+ years of experie
 ### 📫 Connect with me:  
 - **Email**: [agrawalnirmit02@gmail.com](mailto:agrawalnirmit02@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/nirmit-agrawal](https://www.linkedin.com/in/nirmit-agrawal/)    
-
----
-
-This makes it **visually appealing and engaging**! Let me know if you want more flair! 🚀🔥
